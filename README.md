@@ -1,4 +1,4 @@
-# Optic-disk-Detection
+# Optic-disk-Detection in Fundus Images
 Optic disk is detected using image processing
 Algorithm:
 1. Applied Median and Bilateral Filter on Gray image
